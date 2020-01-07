@@ -1,14 +1,23 @@
-h1{
-    color: red;
-  text-align: center;
-    background-color: paleturquoise;
-    border: 1px solid black;
+h1 {
+  border: 1PX solid blue;
+  background-color: skyblue;
+  width: 500px;
+  /* text-align:center; */
+
     
 }
-body {
-    color: blue;
-    background-color:paleturquoise;
-    border: 1px solid black;
+  
+  
+    
+    
 
- 
+body {
+  border: 1PX solid blue;
+  background-color: snow;
+  width: 500px;
+  color: blue;
+  margin-left: 350;
+  /* text-align: center; */
 }
+  
+  
